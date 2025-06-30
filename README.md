@@ -65,3 +65,97 @@ npm start
 cd ../frontend
 npm install
 npm start
+
+
+---
+
+## 🗂️ Project Structure
+
+ResolveNow/
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   └── db-config.js
+├── frontend/
+│   ├── components/
+│   ├── pages/
+│   └── App.jsx
+├── database/
+│   ├── ER-Diagram.jpg
+│   └── schema files
+├── implementation/
+│   └── Project docs, screenshots, demo link
+├── setup/
+│   └── Initial setup files
+
+---
+
+## 🔄 Application Flow
+
+👥 Customer:
+- Register/Login
+- Submit complaint
+- Track status
+- Chat with agent
+- View updates
+
+🧑‍💼 Agent:
+- Login
+- View assigned complaints
+- Chat with users
+- Update status
+
+👨‍💼 Admin:
+- Monitor all complaints
+- Assign complaints
+- Manage users & agents
+
+---
+
+## 🧾 Database Schema
+
+🧍 User Schema:
+name, email, password, phone, userType
+
+📮 Complaint Schema:
+userId, name, address, city, comment, status
+
+📌 Assigned Complaint Schema:
+agentId, complaintId, status
+
+💬 Message Schema:
+name, message, complaintId
+
+📷 ER Diagram is available in the /database/ER-Diagram.jpg
+
+---
+
+## 🏗️ Architecture Overview
+
+- Frontend: React + Axios for API calls
+- Backend: Express.js handles routes & logic
+- Database: MongoDB with Mongoose ODM
+- Real-Time: Socket.io + WebRTC (upcoming)
+- Architecture: Client-server architecture with RESTful APIs
+
+---
+
+## 🎯 Demo Highlights
+
+✔️ Full authentication system  
+✔️ Dynamic complaint submission & status tracking  
+✔️ Real-time agent interaction (coming soon)  
+✔️ Admin dashboard for complaint routing  
+✔️ Clean UI with animations and responsive design
+
+---
+
+## 🤝 Contributors
+
+- Saiharini – Full Stack Developer & Team Lead  
+- (Add other team members here if any)
+
+---
+
+
