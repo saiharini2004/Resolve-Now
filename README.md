@@ -16,7 +16,6 @@ ResolveNow is a full-stack web application that streamlines the process of lodgi
 - [Database](#-database-schema)
 - [Architecture](#-architecture-overview)
 - [Demo Highlights](#-demo-highlights)
-- [Contributors](#-contributors)
 
 ## ✅ Features
 ### 👤 User
@@ -127,11 +126,6 @@ name, message, complaintId
 ✔️ Real-time agent interaction (coming soon)  
 ✔️ Admin dashboard for complaint routing  
 ✔️ Clean UI with animations and responsive design
-
-
-## 🤝 Contributors
-
-- Saiharini – Full Stack Developer & Team Lead  
 
 
 
