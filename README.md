@@ -68,6 +68,7 @@ npm install
 npm start
 
 ```
+
 ## 🗂️ Project Structure
 
 ResolveNow/
@@ -88,7 +89,7 @@ ResolveNow/
 ├── setup/
 │   └── Initial setup files
 
----
+
 
 ## 🔄 Application Flow
 
@@ -110,7 +111,6 @@ ResolveNow/
 - Assign complaints
 - Manage users & agents
 
----
 
 ## 🧾 Database Schema
 
@@ -128,7 +128,6 @@ name, message, complaintId
 
 📷 ER Diagram is available in the /database/ER-Diagram.jpg
 
----
 
 ## 🏗️ Architecture Overview
 
@@ -138,7 +137,6 @@ name, message, complaintId
 - Real-Time: Socket.io + WebRTC (upcoming)
 - Architecture: Client-server architecture with RESTful APIs
 
----
 
 ## 🎯 Demo Highlights
 
@@ -148,7 +146,6 @@ name, message, complaintId
 ✔️ Admin dashboard for complaint routing  
 ✔️ Clean UI with animations and responsive design
 
----
 
 ## 🤝 Contributors
 
