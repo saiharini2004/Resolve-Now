@@ -11,11 +11,11 @@ ResolveNow is a full-stack web application that streamlines the process of lodgi
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Getting Started](#-getting-started)
-- [Project Structure](#-project-structure)
+- [Installation](#-installation)
 - [Application Flow](#-application-flow)
 - [Database](#-database-schema)
 - [Architecture](#-architecture-overview)
-- [Screenshots](#-demo-highlights)
+- [Demo Highlights](#-demo-highlights)
 - [Contributors](#-contributors)
 
 ## ✅ Features
