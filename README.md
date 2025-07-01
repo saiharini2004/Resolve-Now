@@ -52,7 +52,8 @@ ResolveNow is a full-stack web application that streamlines the process of lodgi
 - MongoDB
 - Git
 
-### 🧑‍💻 Installation
+## 🧑‍💻 Installation
+
 ```bash
 git clone https://github.com/saiharini2004/Resolve-Now.git
 
@@ -66,9 +67,7 @@ cd ../frontend
 npm install
 npm start
 
-
----
-
+```
 ## 🗂️ Project Structure
 
 ResolveNow/
@@ -154,8 +153,7 @@ name, message, complaintId
 ## 🤝 Contributors
 
 - Saiharini – Full Stack Developer & Team Lead  
-- (Add other team members here if any)
 
----
+
 
 
