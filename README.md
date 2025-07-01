@@ -69,28 +69,6 @@ npm start
 
 ```
 
-## 🗂️ Project Structure
-
-ResolveNow/
-├── backend/
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   └── db-config.js
-├── frontend/
-│   ├── components/
-│   ├── pages/
-│   └── App.jsx
-├── database/
-│   ├── ER-Diagram.jpg
-│   └── schema files
-├── implementation/
-│   └── Project docs, screenshots, demo link
-├── setup/
-│   └── Initial setup files
-
-
-
 ## 🔄 Application Flow
 
 👥 Customer:
@@ -114,6 +92,7 @@ ResolveNow/
 
 ## 🧾 Database Schema
 
+
 🧍 User Schema:
 name, email, password, phone, userType
 
@@ -131,6 +110,7 @@ name, message, complaintId
 
 ## 🏗️ Architecture Overview
 
+
 - Frontend: React + Axios for API calls
 - Backend: Express.js handles routes & logic
 - Database: MongoDB with Mongoose ODM
@@ -139,6 +119,7 @@ name, message, complaintId
 
 
 ## 🎯 Demo Highlights
+
 
 ✔️ Full authentication system  
 ✔️ Dynamic complaint submission & status tracking  
